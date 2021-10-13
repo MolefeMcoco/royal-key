@@ -1,0 +1,541 @@
+/* apple music logo */
+.fa-apple-music .fa-music:before {
+  content: "\266B";
+}
+.fa-apple-music .fa-music {
+  color: #0d0d0d !important;
+}
+.fa-apple-music-o .fa-music {
+  color: #f0321daf;
+  font-size: 0.75rem !important;
+  line-height: 1.9rem !important;
+}
+
+.fa-stack-2x {
+  color: #f0321d;
+}
+
+/* Init */
+section {
+  padding: 200px 0px;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+  font-family: tisasans;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 50px 0px;
+}
+
+.btn {
+  background-color: #f0311d;
+  border-color: #f0311d;
+  color: #fff;
+  border-radius: 0px;
+  box-shadow: 0px 4px 0px #000;
+  -webkit-box-shadow: 0px 7px 20px -9px rgb(0 0 0 / 75%) !important;
+  -moz-box-shadow: 0px 7px 20px -9px rgba(0, 0, 0, 0.75) !important;
+  box-shadow: 0px 7px 20px -9px rgb(0 0 0 / 75%) !important;
+  transition: all 0.3s ease 0s;
+}
+
+.btn:hover {
+  color: #fff;
+  transition: all 0.3s ease 0s;
+  background-color: #000;
+  border-color: #000;
+  box-shadow: 0px 4px 0px #000;
+  -webkit-box-shadow: 0px 14px 20px -9px rgb(0 0 0 / 75%) !important;
+  -moz-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75) !important;
+  box-shadow: 0px 14px 20px -9px rgb(0 0 0 / 75%) !important;
+}
+
+.btn-reverse {
+  color: #fff !important;
+  transition: all 0.3s ease 0s;
+  background-color: #000;
+  border-color: #000;
+  box-shadow: 0px 4px 0px #000;
+  -webkit-box-shadow: 0px 14px 20px -9px rgb(0 0 0 / 75%) !important;
+  -moz-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75) !important;
+  box-shadow: 0px 14px 20px -9px rgb(0 0 0 / 75%) !important;
+}
+
+.btn-reverse:hover {
+  background-color: #f0311d;
+  border-color: #f0311d;
+  color: #fff !important;
+  border-radius: 0px;
+  box-shadow: 0px 4px 0px #000;
+  -webkit-box-shadow: 0px 7px 20px -9px rgb(0 0 0 / 75%) !important;
+  -moz-box-shadow: 0px 7px 20px -9px rgba(0, 0, 0, 0.75) !important;
+  box-shadow: 0px 7px 20px -9px rgb(0 0 0 / 75%) !important;
+  transition: all 0.3s ease 0s;
+}
+
+/* fonts */
+@font-face {
+  font-family: bonaventure;
+  src: url(../fonts/Bonaventure.ttf);
+}
+
+@font-face {
+  font-family: tisasans;
+  src: url(../fonts/TisaSansPro-Bold.ttf);
+}
+/* apple music logo */
+.fa-apple-music .fa-music:before {
+  content: "\266B";
+}
+.fa-apple-music .fa-music {
+  color: #ffffff;
+}
+.fa-apple-music-o .fa-music {
+  color: #000000;
+  font-size: 0.75rem;
+  line-height: 1.9rem;
+}
+
+/* Navigation */
+
+#navigation .fixed_contacts {
+  background-color: #f0311d;
+  color: #fff;
+}
+
+#navigation .fixed_contacts p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#navigation .fixed_contacts .fa {
+  color: #000;
+  font-size: 25px;
+}
+
+#navigation .navbar-brand {
+  padding-left: 20px;
+  font-family: bonaventure;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
+.navbar {
+  background-color: #000000 !important;
+  padding-right: 10px;
+}
+.navbar-dark .navbar-toggler {
+  color: rgb(240 49 29);
+  border-color: rgb(240 49 29);
+}
+
+.navbar .nav-link {
+  color: #fff !important;
+  text-transform: capitalize;
+}
+
+.navbar .nav-link:hover {
+  color: #f0311d !important;
+}
+
+.navbar .active a {
+  color: #f0311d !important;
+}
+
+.navbar .dropdown-menu {
+  background-color: #00000070 !important;
+}
+.navbar .dropdown-menu .dropdown-item {
+  color: #fff !important;
+  text-transform: capitalize;
+}
+.navbar .dropdown-menu .dropdown-item:hover {
+  color: #000 !important;
+  background-color: #fff;
+}
+
+/* carousel */
+
+.carousel h1 {
+  text-align: left;
+  text-transform: capitalize;
+  padding: 20px 0px;
+}
+
+.carousel p {
+  text-align: left;
+}
+
+/* Intro */
+
+.intro h1 {
+  padding-bottom: 0px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.502);
+}
+
+.intro p {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: bonaventure;
+  font-size: 1.1rem;
+}
+
+.intro hr {
+  height: 2px;
+  width: 50%;
+  margin-left: 25%;
+  color: #f0311d;
+}
+
+/* services */
+#services {
+  background-color: #0d0d0d;
+  color: #9a9a9a;
+  padding-bottom: 0px;
+}
+
+#services h1 {
+  color: #fff;
+  padding-top: 50px;
+}
+
+#services h4 {
+  color: #f0321daf;
+}
+
+#services ul {
+  list-style: none;
+  color: #f0321daf;
+  text-shadow: 2px 2px 3px #000;
+  padding-inline-start: 0px;
+}
+
+#services .left_services li {
+  text-align: right;
+}
+
+#services .right_services li {
+  text-align: left;
+}
+
+/* services */
+#artists h1 {
+  padding: 100px 0px;
+}
+
+#artists .artist-container {
+  background-color: #0d0d0d;
+  margin-bottom: 50px;
+}
+
+#artists .artist-container .artist-name {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1.2rem;
+  padding: 10px;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.502);
+  text-transform: capitalize;
+  font-family: tisasans;
+  letter-spacing: 1px;
+}
+
+#artists .artist-container a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#artists .artist-container ul {
+  list-style: none;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-inline-start: 0px;
+}
+#artists .artist-container li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#artists .social-media {
+  padding-bottom: 5px;
+}
+
+#artists .fa-facebook,
+.fa-spotify,
+.fa-youtube,
+.fa-facebook,
+.fa-twitter,
+.fa-instagram {
+  font-size: 20px;
+  color: #f0321d;
+}
+
+.book-button {
+  text-align: center;
+  margin: 50px;
+}
+/* demo submisson */
+#demo_sub {
+  background-image: url("../images/Drake.jpeg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  padding-bottom: 0px;
+  position: relative;
+}
+
+#demo_sub h1 {
+  margin-top: 50px;
+  padding: 10px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.502);
+  color: #f0321d;
+}
+
+/* footer */
+footer {
+  background-color: rgb(13, 13, 13);
+  padding: 20px 20px 0px 20px;
+}
+footer a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: #f0311d;
+}
+
+footer ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.form,
+.links,
+.social-links,
+.footer-contact {
+  padding: 20px;
+  color: #ccc;
+}
+
+footer h3 {
+  font-family: tisasans;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  color: #f0321daf;
+}
+
+.form input,
+.form textarea {
+  background-color: transparent;
+  border-color: #f0321d;
+  border-radius: 0;
+  margin-bottom: 20px;
+  color: #ccc;
+}
+
+.form .form-control:focus {
+  background-color: transparent !important;
+  border-color: #f0321daf;
+  border-radius: 0;
+  margin-bottom: 20px;
+  color: #ccc;
+  box-shadow: 0 0 0 0.25rem rgb(0 0 0 / 36%);
+}
+
+.end-footer {
+  text-align: center;
+  background-color: rgb(2, 2, 2);
+  width: 100%;
+}
+
+.end-footer p {
+  margin-bottom: 0px;
+  padding: 10px;
+}
+
+.end-footer a {
+  color: #f0321d;
+  text-decoration: none;
+}
+
+/* artist page */
+#artist_page {
+  padding: 100px 0px;
+}
+
+#artist_page .artist-social-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#artist_page img {
+  width: 100%;
+}
+
+#artist_page .social-media {
+  position: absolute;
+  bottom: 0px;
+  right: 20px;
+}
+
+#artist_page .social-media li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#artist_page .detailed_bio p {
+  font-family: bonaventure !important;
+}
+
+/* booking page */
+
+#booking-page .sub-section{
+  box-shadow: 0px 3px 10px rgb(90 90 90);
+  padding: 20px;
+}
+#booking-page h3{
+  margin: 15px 0px;
+}
+
+#booking-page h3,h5{
+  text-transform: capitalize;
+  color:#000;
+  font-family: tisasans;
+
+}
+
+#booking-page h5{
+margin-top: 10px;
+}
+
+#booking-page input,#booking-page text-area , #booking-page select{
+  margin-bottom: 15px;
+  font-family: bonaventure !important;
+}
+#booking-page input:focus,#booking-page text-area:focus , #booking-page select:focus{
+  border: none;
+  box-shadow: 0px 1px 2px rgb(90 90 90);
+}
+
+#booking-page #date{
+  text-transform: uppercase;
+}
+
+#booking-page .form-control{
+  border:none;
+  border-bottom:solid 1px #f0311d;
+  border-radius: 0;
+  margin:20px 0px;
+}
+
+/* contact page */
+#contact_page h3{
+  color: #0d0d0d;
+  font-family: tisasans;
+}
+
+
+#contact_page h5{
+  color:#f0311d;
+}
+
+#contact_page p{
+  font-family: bonaventure;
+}
+
+#contact_page input,#contact_page text-area , #contact_page select{
+  margin-bottom: 15px;
+  font-family: bonaventure !important;
+}
+#contact_page input:focus,#contact_page text-area:focus , #contact_page select:focus{
+  border: none;
+  box-shadow: 0px 1px 2px rgb(90 90 90);
+}
+
+
+#contact_page .form-control{
+  border:solid 1px rgba(240, 50, 29, 0.5);
+  border-radius: 0;
+  margin:20px 0px;
+}
+
+.intrinsic-container{
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+/*16x9 Aspect Ratio*/
+.intrinsic-container-16x9{
+  padding-bottom: 56.25%;
+}
+
+/*4x3 Aspect Ratio*/
+.intrinsic-container-16x9{
+  padding-bottom: 75%;
+}
+
+.intrinsic-container iframe{
+  position: absolute;
+  top: 0;
+  left:0;
+  width: 100%;
+  height: 100%;
+}
+
+#contact_page form , #contact_page .contact-item{
+  box-shadow: 0px 3px 10px rgb(90 90 90);
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+/* about page */
+#contact_page h1{
+  text-align: left;
+  padding: 15px 0px;
+  color: #f0311d;
+  text-transform: capitalize;
+}
+
+#contact_page h4{
+  color: #000;
+}
+
+#contact_page .ceo_picture p{
+  text-align: center;
+  font-size: 24px;
+  margin: 15px 0px;
+  color: #f0311d;
+  font-family: tisasans;
+}
+
+#contact_page img{
+  margin:0 auto;
+}
+
+
+/*========js helper=========*/
+.attach{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 999;
+	margin-top: 0px !important;
+	padding: 10px 0px 0px 0px !important;
+	box-shadow: 0px 4px 3px rgba(0,0,0,.075);
+	-webkit-box-shadow: 0px 4px 3px rgba(0,0,0,.075);
+	-moz-box-shadow: 0px 4px 3px rgba(0,0,0,.075);
+	-o-box-shadow: 0px 4px 3px rgba(0,0,0,.075);
+	-ms-box-shadow: 0px 4px 3px rgba(0,0,0,.075);
+	-webkit-transition:ease-in .3s;
+	-ms-transition:ease-in .3s;
+	-moz-transition:ease-in .3s;
+	-o-transition:ease-in .3s;
+	transition:ease-in .3s;
+}
+

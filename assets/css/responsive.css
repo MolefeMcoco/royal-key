@@ -1,0 +1,70 @@
+#fixed_contacts p{
+    font-size: 0.7rem;
+}
+
+.carousel-item > img , .carousel-item{
+    height: 25rem;
+}
+
+@media screen and (max-width:991px){
+    
+}
+
+@media screen and (max-width:425px){
+    section{
+        padding: 50px 0px;
+    }
+    #navigation .fixed_contacts .fa {
+        font-size: 14px;
+    }
+
+    #navigation .navbar-brand {
+        padding-left: 0px;
+        font-size: 12px;
+    }
+
+    .navbar-toggler {
+        padding: .25rem .5rem;
+        font-size: 1rem;
+    }
+    
+    .carousel-item {
+        height: 20rem;
+    }
+    .carousel-item > img {
+        height: 20rem;
+    }
+    .carousel h1{
+        font-size: 20px;
+    }
+
+    .btn {
+        padding: .25rem .5rem;
+        font-size: .875rem;
+        border-radius: .2rem;
+    }
+    .intro h1{
+        text-align: left;
+    }
+    .intro hr{
+        margin-left: 0px;
+    }
+
+    .intro p{
+        font-size: 1rem;
+        text-align: left;
+    }
+
+    #artists h1 {
+        padding: 25px 0px;
+    }
+
+    #booking-page{
+        margin: 0px;
+    }
+
+    .col {
+        flex: 1 1 100%;
+    }
+
+}
